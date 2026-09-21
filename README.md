@@ -1,2 +1,2 @@
 # Africa_population_prediction
-Africa populaion
+Africa population
