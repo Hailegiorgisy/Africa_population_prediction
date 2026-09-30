@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: Yirgu
+    given-names: Hailegiorgis
+title: "Africa Population Prediction: Ensemble Modeling for Demographic Forecasting"
+version: 1.0.0
+date-released: 2026-09-30
+url: "https://github.com/Hailegiorgisy/Africa_population_prediction"

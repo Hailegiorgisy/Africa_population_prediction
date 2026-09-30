@@ -1,0 +1,13 @@
+name: africa-pop-pred
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.11
+  - numpy>=1.24.0
+  - pandas>=2.0.0
+  - scikit-learn>=1.3.0
+  - pyarrow>=12.0.0
+  - pip
+  - pip:
+      - fastparquet>=2023.7.0
